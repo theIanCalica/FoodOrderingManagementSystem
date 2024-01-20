@@ -1,0 +1,132 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+foodOrdeing_managementSystem
+</name>
+</assembly>
+<members>
+<member name="T:foodOrdeing_managementSystem.My.Resources.Resource1">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resource1.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resource1.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resource1._error">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resource1.chat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resource1.exclamation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resource1.information">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resource1.question">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:foodOrdeing_managementSystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resources.category">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resources.dashboard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resources.email">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resources.food">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resources.gross_profit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resources.growth">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resources.pencil">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resources.pexels_linkedin_sales_navigator_2182970">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resources.recycle_bin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resources.report">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resources.staff">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resources.staffMain">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:foodOrdeing_managementSystem.My.Resources.Resources.three_dots">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
